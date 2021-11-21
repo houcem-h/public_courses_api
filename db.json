@@ -8,6 +8,7 @@
             "last_update": "10/2020",
             "instructor": "Samuel Spencer",
             "language": "English",
+            "price": 39.99,
             "goals": [
                 "Understand how computers work from inside out",
                 "Understand basic concepts of software programming (in Java, Python, PHP)",
@@ -27,6 +28,7 @@
             "last_update": "5/2020",
             "instructor": "infySEC Global",
             "language": "English",
+            "price": 79.99,
             "goals": [
                 "Understand how to be a secured computer user",
                 "Understand the need for Business Continuity planning and Disaster Recovery",
@@ -45,6 +47,7 @@
             "last_update": "10/2021",
             "instructor": "Kennedy Otis",
             "language": "English",
+            "price": 59.99,
             "goals": [
                 "Architect large, scalable apps using a collection of microservices",
                 "Deploy a multi-service app to the cloud with Docker and Kubernetes",
@@ -71,6 +74,7 @@
             "last_update": "10/2021",
             "instructor": "Jonas Schmedtmann",
             "language": "English",
+            "price": 39.99,
             "goals": [
                 "Become an advanced, confident, and modern JavaScript developer from scratch",
                 "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
@@ -101,6 +105,7 @@
             "last_update": "10/2021",
             "instructor": "Maximilian Schwarzmüller",
             "language": "English",
+            "price": 89.99,
             "goals": [
                 "Develop modern, complex, responsive and scalable web applications with Angular 12",
                 "Fully understand the architecture behind an Angular application and how to use it",

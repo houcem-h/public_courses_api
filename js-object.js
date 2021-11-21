@@ -48,7 +48,7 @@ courses = [
     description:
       'Event-Based Architecture? Covered! Server side rendering with React? Yep.  Scalable, production-ready code? Its here! Microservices are the number one solution for building and scaling out apps that are intended to grow.  Just one little issue: there are few resources online that delve into the most complex and nasty issues around them!  I built this course to fix that.  This course tackles every major issues around microservices head on. From challenges with data replication to confusing unordered event streams, every major challenge of building microservices is covered.',
     image:
-      'https://freedownloadcourse.com/wp-content/uploads/2021/03/download-isms-awareness.jpg',
+      'https://dz2cdn1.dzone.com/storage/temp/12898908-microservices-nodejs.jpg',
     last_update: '10/2021',
     instructor: 'Kennedy Otis',
     language: 'English',
